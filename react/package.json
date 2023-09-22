@@ -19,6 +19,7 @@
     "typescript": "latest"
   },
   "scripts": {
+    "build": "react-scripts build",
     "dev": "bun --watch run dev.tsx"
   },
   "bun-create": {
